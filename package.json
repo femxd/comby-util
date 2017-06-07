@@ -1,0 +1,30 @@
+{
+  "name": "comby-util",
+  "version": "0.0.1",
+  "description": "comby util",
+  "main": "./lib/apiParser.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femxd/comby-util.git"
+  },
+  "dependencies": {
+    "acorn-jsx": "^4.0.1",
+    "ast-traverse": "^0.1.1",
+    "babel-core": "^6.22.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.22.0",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "js-yaml": "^3.8.4",
+    "jsonml-stringify": "^1.0.1",
+    "mark-twain": "^1.1.6",
+    "marked": "^0.3.6",
+    "node-prismjs": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": "comby util",
+  "author": "DamonLiu",
+  "license": "ISC"
+}
