@@ -1,6 +1,6 @@
 {
   "name": "comby-util",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "description": "comby util",
   "main": "./lib/apiParser.js",
   "repository": {
